@@ -1,5 +1,5 @@
 # 🚀 LIGHTLANG MASTERCLASS: RESMİ GELİŞTİRİCİ KILAVUZU & EĞİTİM DOKÜMANI (v1.0.0)
-**Geliştirici:** Lightspeed (Özgür) & LightLang Core Team  
+**Geliştirici:** Lightspeed (Wretch) & LightLang Core Team  
 **Altyapı:** Gelişmiş AST (Abstract Syntax Tree) + Kelime Sınırı Korumalı Regex Transpiler Motoru  
 **Hedef:** Minecraft sunucu ekosisteminde %100 Türkçe sözdizimi (syntax) ile kusursuz, optimize ve kayıpsız script geliştirme.
 
