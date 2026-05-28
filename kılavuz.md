@@ -1,6 +1,6 @@
 LIGHTLANG RESMİ GELİŞTİRİCİ KILAVUZU (v1.0)
 
-Yazar: Lightspeed (Özgür) & LightLang Geliştirme Ekibi
+Yazar: Lightspeed (Wretch) & LightLang Geliştirme Ekibi
 Sürüm: 1.0.0
 Altyapı: AST (Abstract Syntax Tree) + Regex Tabanlı Dönüştürme Motoru
 
